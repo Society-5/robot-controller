@@ -1,6 +1,4 @@
-echo "# Robot Controller" > README.md
 git init
 git add -A
-git commit -m "first commit"
-git remote add origin https://github.com/Society-5/robot-controller.git
-git push -u origin master
+git commit
+git push
